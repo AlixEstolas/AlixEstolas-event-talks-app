@@ -1,0 +1,23 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+build/
+dist/target/*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Dependency directories
+node_modules/
+vendor/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Gemini CLI specific files
+.gemini/
